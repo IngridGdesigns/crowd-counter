@@ -9,6 +9,8 @@ body {
 
 .container {
     margin-top: 100px;
+    max-width: 80%;
+    margin: auto;
 }
 
 h1 {
@@ -37,6 +39,7 @@ button {
 
 .previous {
     color: #00C49A;
+    font-weight: bold;
 }
 
 #increment-btn {
